@@ -1,0 +1,98 @@
+## Info
+- Our logo: https://storage.googleapis.com/safha-public-01/basmtlolo.webp
+- We are Basma Al Lulu Medical Center.
+- We provide therapeutic and cosmetic services with the latest medical technologies, with a medical staff from the most prestigious European and Arab universities. We specialize in dermatology, cosmetics, laser, hair transplantation, teeth, children, women, and childbirth under the supervision of senior consultants and specialists.
+- We offer the following services:
+    1 Fillings and cosmetic dental treatment
+        image: https://basmtlolo.com/wp-content/uploads/2023/05/Untitled-1.jpg
+    2 Emergency and general medicine
+        image: https://basmtlolo.com/wp-content/uploads/2023/05/2.webp
+    3 Pediatrics
+        image: https://basmtlolo.com/wp-content/uploads/2023/05/4.webp
+    4 Family medicine
+        image: https://basmtlolo.com/wp-content/uploads/2023/05/4-1.webp
+    5 Gynecology and obstetrics
+        image: https://basmtlolo.com/wp-content/uploads/2023/05/5.webp
+    6 Plastic surgery, skin and laser
+        image: https://basmtlolo.com/wp-content/uploads/2023/05/6.webp
+    7 Cupping Department
+        image: https://basmtlolo.com/wp-content/uploads/2023/05/7.webp
+- Our gallery includes the following images:
+    1 https://basmtlolo.com/wp-content/uploads/2023/04/4-1.jpg
+    2 https://basmtlolo.com/wp-content/uploads/2023/04/3-1.jpg
+    3 https://basmtlolo.com/wp-content/uploads/2023/04/2-1.jpg
+    4 https://basmtlolo.com/wp-content/uploads/2023/04/8-1.jpg
+    5 https://basmtlolo.com/wp-content/uploads/2023/04/9-1.jpg
+    6 https://basmtlolo.com/wp-content/uploads/2023/04/21-1.jpg
+    7 https://basmtlolo.com/wp-content/uploads/2023/04/1-1.jpg
+    8 https://basmtlolo.com/wp-content/uploads/2023/04/24-1.jpg
+    9 https://basmtlolo.com/wp-content/uploads/2023/04/23-1.jpg
+    10 https://basmtlolo.com/wp-content/uploads/2023/04/22-1.jpg
+- We offer the following offers:
+    1 15% off on plastic surgery operations
+    2 Double chin surgery for 4999 SR
+    3 Facial sanding surgery for 5999 SR
+    4 Teeth whitening and teeth cleaning for 449 SR
+    5 American Botox Allergan for 749 SR
+    6 50% off of cupping sessions
+- Our team:
+    1 Dr. Muhammad Adel Al-Bayanouni
+     Speciality: Pediatric consultant
+     Image: https://basmtlolo.com/wp-content/uploads/2023/04/Untitled-1.webp
+    2 Dr. Amr
+     Speciality: Cupping Specialist
+     Image: https://basmtlolo.com/wp-content/uploads/2023/04/%D8%B9%D9%85%D8%B1%D9%88-%D8%A7%D8%AE%D8%B5%D8%A7%D8%A6%D9%8A-%D8%AD%D8%AC%D8%A7%D9%85%D8%A9_.webp
+    3 Dr. Jamal Al-Din Hassanein
+     Speciality: Consultant Surgeon
+     Image: https://basmtlolo.com/wp-content/uploads/2023/04/%D8%AF_%D8%AC%D9%85%D8%A7%D9%84_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%AD%D8%B3%D9%86%D9%8A%D9%86_%D8%A7%D8%B3%D8%AA%D8%B4%D8%A7%D8%B1%D9%8A_%D8%AC%D8%B1%D8%A7%D8%AD%D8%A9_%D8%AA%D8%AC%D9%85%D9%8A%D9%84_.webp
+    4 Dr. Ramzi
+     Speciality: Dentist
+     Image: https://basmtlolo.com/wp-content/uploads/2023/04/%D8%AF-%D8%B1%D9%85%D8%B2%D9%8A-%D8%B7%D8%A8%D9%8A%D8%A8-%D8%A7%D8%B3%D9%86%D8%A7%D9%86_.webp
+    5 Dr. Natalie
+     Speciality: Dentist Doctor
+     Image: https://basmtlolo.com/wp-content/uploads/2023/04/%D8%AF-%D9%86%D8%A7%D8%AA%D8%A7%D9%84%D9%8A-%D8%B7%D8%A8%D9%8A%D8%A8-%D8%A3%D8%B3%D9%86%D8%A7%D9%86-1.webp
+    5 Dr. Rania Al-Wakeel
+     Speciality: Gynecology Specialist
+     Image: https://basmtlolo.com/wp-content/uploads/2023/04/%D8%AF_%D8%B1%D8%A7%D9%86%D9%8A%D8%A7_%D8%A7%D9%84%D9%88%D9%83%D9%8A%D9%84_%D8%A3%D8%AE%D8%B5%D8%A7%D8%A6%D9%8A_%D9%86%D8%B3%D8%A7%D8%A1_%D9%88%D8%AA%D9%88%D9%84%D9%8A%D8%AF_.webp
+- Our contact us form destination email "info@basmtlolo.com" with fields:
+    1 Name [Text Field]
+    2 Phone Number [Text Field]
+    3 Department [Select Field]
+        1 Emergency and general medicine
+        2 Teeth
+        3 Children
+        4 Family Medicine
+        5 Gynecology and obstetrics
+        6 Plastic and laser surgery
+        7 Cupping
+- Our endorsements:
+    1 I visited Dr. Natalie, she is wonderful, her hand is light, very gentle and affectionate, her work is beyond excellent, God willing, God bless you.
+    2 I had cleaning done by Dr. Ramzi, and the results were beautiful, his hand was light, and the price was very reasonable.
+    3 I had braces installed and there were white marks on my front teeth after I removed the braces, but I saw Dr. Natalie and she had treatment for her, and the result was very satisfactory and I had never expected it, and her treatment was very sophisticated.
+- Our projects:
+    1 Nahdi In: Interns management platform for Nahdi interns https://plus.unsplash.com/premium_photo-1678937611141-303ea9d6f1a9?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    2 Nahdi Mobile: New mobile app for Nahdi customers
+    3 NuqtahNFTs: MENA region first NFTs marketplace
+    4 MonshaatDEC: Young entrepensures engagment platform
+    5 BaboonTracking: Track and report baboon tribes https://images.unsplash.com/photo-1710971228630-f59c4cb257a8?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+    6 CMS: Headless CMS open source project
+- Our GEO location coordinates are longitude:24.6919893876204 and latitude: 46.69228288730106.
+- Our contact info:
+    1 Phone Number: +966564660707
+    2 Email: info@basmtlolo.com
+    3 Location: Riyadh - Prince Sultan bin Abdulaziz Road
+Our Social Media links:
+    1 Facebook: https://www.facebook.com/basmtlolo1
+    2 X (Twitter): https://twitter.com/basmtlolo1
+    3 Instagram: https://www.instagram.com/basmtlolo1
+    3 WhatsApp: https://basmtlolo.com
+
+## Task
+- Rewrite the template component to fit the info given such as title without changing anything else.
+- Do not use NextJS Image component whatsoever.
+
+# Template component
+// File: ProjectsSection.tsx // This TypeScript component displays projects of Basma Al Lulu Medical Center using Framer Motion animations. // It follows the provided structure and content information. import { motion } from "framer-motion" // Importing Framer Motion for animations import React from "react" // Importing React // Define the structure of each project using a TypeScript interface interface Project { id: number title: string description: string imagePath?: string // Optional because it might not always be provided } // List of projects using given information const projects: Project[] = [ { id: 1, title: "Nahdi In", description: "Interns management platform for Nahdi interns", imagePath: "https://images.unsplash.com/photo-1678937611141-303ea9d6f1a9?ixlib=rb-4.0.3", }, { id: 2, title: "Nahdi Mobile", description: "New mobile app for Nahdi customers", imagePath: null, }, { id: 3, title: "NuqtahNFTs", description: "First NFTs marketplace in the MENA region", imagePath: null, }, { id: 4, title: "MonshaatDEC", description: "Young entrepreneurs engagement platform", imagePath: null, }, { id: 5, title: "BaboonTracking", description: "Track and report baboon tribes", imagePath: "https://images.unsplash.com/photo-1710971228630-f59c4cb257a8?ixlib=rb-4.0.3", }, { id: 6, title: "CMS", description: "Headless CMS open-source project", imagePath: null, }, ] // React functional component to render the projects with an animation const ProjectsSection: React.FC = () => { return ( <section id="projects" className="py-12 bg-white"> <div className="max-w-[1366px] mx-auto px-4"> {/* Title for the projects section */} <h2 className="text-3xl font-bold text-center mb-6">Our Projects</h2> {/* Animated grid to display project cards with responsive configuration */} <motion.div initial={{ scale: 0 }} animate={{ scale: 1 }} transition={{ duration: 0.5 }} className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6" > {projects.map((project) => ( <motion.div whileHover={{ scale: 1.05 }} key={project.id} className="bg-gray-50 shadow-lg rounded-lg p-4 hover:shadow-xl transition-shadow duration-300" > <div className="h-40 rounded-lg overflow-hidden"> {project.imagePath ? ( <img src={project.imagePath} alt={project.title} className="w-full object-cover object-top hover:scale-125 transition duration-500 ease-in-out" /> ) : ( <div className="bg-gray-200 flex items-center justify-center h-full"> <span className="text-lg font-semibold text-gray-500"> No Image Available </span> </div> )} </div> <h3 className="mt-2 text-lg font-bold">{project.title}</h3> <p className="text-sm text-gray-600">{project.description}</p> </motion.div> ))} </motion.div> </div> </section> ) } // Exporting the component as the default export from this module export default ProjectsSection
+
+# Prompt
+Respond with a single NextJS TypeScript component "ProjectsSection.tsx" using the provided info and specifications with clean commented code.

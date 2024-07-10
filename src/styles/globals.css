@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html,
+body {
+  @apply bg-white font-primary;
+}
+
+:root {
+  --tw-color-primary: theme("colors.primary");
+}
+
+#nprogress .bar {
+  @apply !bg-primary !h-1;
+}
+
+#nprogress .peg {
+  box-shadow: 0 0 10px var(--tw-color-primary), 0 0 5px var(--tw-color-primary) !important;
+}
+
+#nprogress .spinner-icon {
+  border-top-color: var(--tw-color-primary) !important;
+  border-left-color: var(--tw-color-primary) !important;
+}
+
+#nprogress .spinner {
+  display: none !important;
+}
+
+img {
+  -webkit-user-drag: none;
+  user-select: none;
+}
+
+::-webkit-scrollbar {
+  display: none !important;
+}
