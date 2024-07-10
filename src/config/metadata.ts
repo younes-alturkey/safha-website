@@ -20,8 +20,8 @@ const metadata: Metadata = {
   designer: "Safha",
   replyTo: "info@safha.com",
   owner: "Safha",
-  url: "https://app.safha.com",
-  identifierURL: "https://app.safha.com",
+  url: "https://safha-website.vercel.app",
+  identifierURL: "https://safha-website.vercel.app",
   directory: "Business/Information_Technology/Web_Development_and_AI_Tools",
   category: "AI-Powered Web Development and Business Solutions",
   coverage: "Global",
@@ -29,11 +29,12 @@ const metadata: Metadata = {
   rating: "General",
   revisitAfter: "7 days",
   themeColor: "#50F5AC",
-  icon: "https://storage.googleapis.com/safha-public-01/safha-logo-512x512.png",
+  icon: "https://basmtlolo.com/wp-content/uploads/2024/01/png.png",
   ogTitle: "My Website — Safha",
   ogType: "website",
-  ogUrl: "https://app.safha.com",
-  ogImage: "https://storage.googleapis.com/safha-public-01/safha-main.png",
+  ogUrl: "https://safha-website.vercel.app",
+  ogImage:
+    "https://basmtlolo.com/wp-content/uploads/2023/04/dr-copy-1-1024x313.webp",
   ogSiteName: "My Website — Safha",
   ogDescription:
     "Safha is building a product that allows anyone to create a stunning website with AI in minutes. Includes, Brand Generator, CMS, CRM, Web Payments, AI Booking Management, and Automated Blogging.",
@@ -50,17 +51,18 @@ const metadata: Metadata = {
   twitterCard: "summary_large_image",
   twitterSite: "@safha_com",
   twitterCreator: "@safha_com",
-  twitterUrl: "https://app.safha.com",
+  twitterUrl: "https://safha-website.vercel.app",
   twitterTitle: "My Website — Safha",
   twitterDescription:
     "Safha is building a product that allows anyone to create a stunning website with AI in minutes. Includes, Brand Generator, CMS, CRM, Web Payments, AI Booking Management, and Automated Blogging.",
-  twitterImage: "https://storage.googleapis.com/safha-public-01/safha-main.png",
+  twitterImage:
+    "https://basmtlolo.com/wp-content/uploads/2023/04/dr-copy-1-1024x313.webp",
   appleMobileWebAppTitle: "My Website — Safha",
   applicationName: "Safha",
   msapplicationTileColor: "#50F5AC",
   msapplicationTileImage:
     "https://storage.googleapis.com/safha-public-01/mstile-144x144.png",
-  canonicalLink: "https://app.safha.com",
+  canonicalLink: "https://safha-website.vercel.app",
 }
 
 export default metadata
